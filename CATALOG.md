@@ -271,15 +271,16 @@
 | 技术翻译专家 | `specialized/technical-translator-agent.md` |
 | ZK 管家 | `specialized/zk-steward.md` |
 
-## 🚚 供应链部 (3)
+## 🚚 供应链部 (4)
 
 | 中文名 | 文件路径 |
 |--------|----------|
 | 库存预测专家 | `supply-chain/supply-chain-inventory-forecaster.md` |
 | 物流路线优化师 | `supply-chain/supply-chain-route-optimizer.md` |
+| 供应链采购策略师 | `supply-chain/supply-chain-strategist.md` |
 | 供应商评估专家 | `supply-chain/supply-chain-vendor-evaluator.md` |
 
-## 🤝 支持部 (8)
+## 🤝 支持部 (7)
 
 | 中文名 | 文件路径 |
 |--------|----------|
@@ -289,7 +290,6 @@
 | 基础设施运维师 | `support/support-infrastructure-maintainer.md` |
 | 法务合规员 | `support/support-legal-compliance-checker.md` |
 | 招聘运营专家 | `support/support-recruitment-specialist.md` |
-| 供应链采购策略师 | `support/support-supply-chain-strategist.md` |
 | 客服响应者 | `support/support-support-responder.md` |
 
 ## 🧪 测试部 (9)
